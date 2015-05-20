@@ -1,0 +1,14 @@
+{
+    "name": "coderium/example",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Anonymous",
+            "email": "oguztopcu7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">= 5.4.0"
+	}
+}
